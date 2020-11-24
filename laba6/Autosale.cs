@@ -17,8 +17,8 @@ namespace laba6
         }
         public void init(Auto _car, int _count)
         {
-            car = _car;
             count = _count;
+            car = _car;
         }
         public void display()
         {
